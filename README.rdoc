@@ -1,5 +1,5 @@
 == README
 
-première application afin d'apprendre à me servir de Roro.
+voici ma première application afin d'apprendre à me servir de Ror.
 
 *jbsaillan
